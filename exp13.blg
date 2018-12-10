@@ -1,0 +1,25 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: exp13.aux
+The style file: IEEEtr.bst
+Database file #1: references14.bib
+You're missing a field name---line 107 of file references14.bib
+ : 
+ : % author={The MathWorks Inc.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2529 of file references14.bib
+ : @inproceedings{Yun2017Action
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2539 of file references14.bib
+ : @article{Yun2018Action
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2576 of file references14.bib
+ : @article{saugirouglu2009intelligent
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2587 of file references14.bib
+ : @article{Arulkumaran2017Deep
+ :                             ,
+I'm skipping whatever remains of this entry
+(There were 5 error messages)
