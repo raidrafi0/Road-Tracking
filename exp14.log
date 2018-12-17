@@ -1,0 +1,740 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.27)  17 DEC 2018 18:26
+entering extended mode
+**./exp14.tex
+(exp14.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(article.cls
+Document Class: article 2000/05/19 v1.4b Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@ContinuedFloat=\count99
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count100
+\c@subtable=\count101
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen123
+\epsfysize=\dimen124
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen125
+\calc@Bdimen=\dimen126
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count104
+\calc@Cskip=\skip50
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip51
+\thm@postskip=\skip52
+\thm@headsep=\skip53
+\dth@everypar=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count105
+\mult@box=\box28
+\multicol@leftmargin=\dimen127
+\c@unbalance=\count106
+\c@collectmore=\count107
+\doublecol@number=\count108
+\multicoltolerance=\count109
+\multicolpretolerance=\count110
+\full@width=\dimen128
+\page@free=\dimen129
+\premulticols=\dimen130
+\postmulticols=\dimen131
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen132
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count111
+\c@finalcolumnbadness=\count112
+\last@try=\dimen133
+\multicolovershoot=\dimen134
+\multicolundershoot=\dimen135
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+) (apalike.sty
+\bibhang=\skip56
+)
+(SCITEPRESS.sty
+Conference Style for SCITEPRESS for LaTeX 2e -- version of December 2018
+\titlebox=\skip57
+) (exp14.aux
+
+LaTeX Warning: Label `eq:fully_connect' multiply defined.
+
+)
+\openout1 = `exp14.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 24
+.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen136
+\scratchbox=\box54
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen137
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks29
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 37
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 37
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 37
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.69997> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+Package epstopdf Info: Source file: <orcid.eps>
+(epstopdf)                    date: 2018-12-11 16:40:00
+(epstopdf)                    size: 975258 bytes
+(epstopdf)             Output file: <orcid-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 17:47:47
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=orcid-eps-converted-to.pdf 
+orcid.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+<orcid-eps-converted-to.pdf, id=1, 598.235pt x 598.235pt>
+File: orcid-eps-converted-to.pdf Graphic file (type pdf)
+<use orcid-eps-converted-to.pdf>
+Package pdftex.def Info: orcid-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 8.5359pt x 8.53497pt.
+Package epstopdf Info: Source file: <orcid.eps>
+(epstopdf)                    date: 2018-12-11 16:40:00
+(epstopdf)                    size: 975258 bytes
+(epstopdf)             Output file: <orcid-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 17:47:47
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=orcid-eps-converted-to.pdf 
+orcid.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: orcid-eps-converted-to.pdf Graphic file (type pdf)
+<use orcid-eps-converted-to.pdf>
+Package pdftex.def Info: orcid-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 8.5359pt x 8.53497pt.
+Package epstopdf Info: Source file: <orcid.eps>
+(epstopdf)                    date: 2018-12-11 16:40:00
+(epstopdf)                    size: 975258 bytes
+(epstopdf)             Output file: <orcid-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 17:47:47
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=orcid-eps-converted-to.pdf 
+orcid.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: orcid-eps-converted-to.pdf Graphic file (type pdf)
+<use orcid-eps-converted-to.pdf>
+Package pdftex.def Info: orcid-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 8.5359pt x 8.53497pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <9> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 37.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
+ []
+
+Package epstopdf Info: Source file: <orcid.eps>
+(epstopdf)                    date: 2018-12-11 16:40:00
+(epstopdf)                    size: 975258 bytes
+(epstopdf)             Output file: <orcid-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 17:47:47
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=orcid-eps-converted-to.pdf 
+orcid.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: orcid-eps-converted-to.pdf Graphic file (type pdf)
+<use orcid-eps-converted-to.pdf>
+Package pdftex.def Info: orcid-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 8.5359pt x 8.53497pt.
+Package epstopdf Info: Source file: <orcid.eps>
+(epstopdf)                    date: 2018-12-11 16:40:00
+(epstopdf)                    size: 975258 bytes
+(epstopdf)             Output file: <orcid-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 17:47:47
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=orcid-eps-converted-to.pdf 
+orcid.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: orcid-eps-converted-to.pdf Graphic file (type pdf)
+<use orcid-eps-converted-to.pdf>
+Package pdftex.def Info: orcid-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 8.5359pt x 8.53497pt.
+Package epstopdf Info: Source file: <orcid.eps>
+(epstopdf)                    date: 2018-12-11 16:40:00
+(epstopdf)                    size: 975258 bytes
+(epstopdf)             Output file: <orcid-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 17:47:47
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=orcid-eps-converted-to.pdf 
+orcid.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: orcid-eps-converted-to.pdf Graphic file (type pdf)
+<use orcid-eps-converted-to.pdf>
+Package pdftex.def Info: orcid-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 8.5359pt x 8.53497pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+[1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+
+ <./orcid-eps-converted-to.pdf>]
+<segmentation_regions2.pdf, id=14, 597.55246pt x 845.07718pt>
+File: segmentation_regions2.pdf Graphic file (type pdf)
+<use segmentation_regions2.pdf>
+Package pdftex.def Info: segmentation_regions2.pdf  used on input line 57.
+(pdftex.def)             Requested size: 279.15892pt x 133.18497pt.
+<segmentation3.pdf, id=16, 1138.37294pt x 1589.94pt>
+File: segmentation3.pdf Graphic file (type pdf)
+<use segmentation3.pdf>
+Package pdftex.def Info: segmentation3.pdf  used on input line 63.
+(pdftex.def)             Requested size: 432.57932pt x 214.87141pt.
+<Deep_Reinf_Net1.pdf, id=18, 845.07718pt x 597.55246pt>
+File: Deep_Reinf_Net1.pdf Graphic file (type pdf)
+<use Deep_Reinf_Net1.pdf>
+Package pdftex.def Info: Deep_Reinf_Net1.pdf  used on input line 69.
+(pdftex.def)             Requested size: 475.3174pt x 184.96973pt.
+
+Overfull \hbox (25.72624pt too wide) in paragraph at lines 69--70
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+[2]
+
+LaTeX Warning: Text page 3 contains only floats.
+
+
+Overfull \vbox (18.23137pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 3 contains only floats.
+
+
+Overfull \vbox (18.23137pt too high) has occurred while \output is active []
+
+
+[3 <./segmentation_regions2.pdf> <./segmentation3.pdf> <./Deep_Reinf_Net1.pdf>]
+
+
+pdfTeX warning: pdflatex.exe (file ./signs.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<signs.pdf, id=131, 597.55246pt x 845.07718pt>
+File: signs.pdf Graphic file (type pdf)
+<use signs.pdf>
+Package pdftex.def Info: signs.pdf  used on input line 105.
+(pdftex.def)             Requested size: 34.16544pt x 45.53947pt.
+File: signs.pdf Graphic file (type pdf)
+<use signs.pdf>
+Package pdftex.def Info: signs.pdf  used on input line 106.
+(pdftex.def)             Requested size: 34.16544pt x 45.53947pt.
+File: signs.pdf Graphic file (type pdf)
+<use signs.pdf>
+Package pdftex.def Info: signs.pdf  used on input line 107.
+(pdftex.def)             Requested size: 34.16544pt x 45.53947pt.
+File: signs.pdf Graphic file (type pdf)
+<use signs.pdf>
+Package pdftex.def Info: signs.pdf  used on input line 108.
+(pdftex.def)             Requested size: 34.16544pt x 45.53947pt.
+File: signs.pdf Graphic file (type pdf)
+<use signs.pdf>
+Package pdftex.def Info: signs.pdf  used on input line 109.
+(pdftex.def)             Requested size: 34.16544pt x 45.53947pt.
+
+Overfull \hbox (4.45703pt too wide) in paragraph at lines 102--111
+ [][] 
+ []
+
+[4 <./signs.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 154.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 157.
+
+Overfull \hbox (10.98695pt too wide) in paragraph at lines 175--175
+ \OT1/ptm/b/n/10 Database 
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./examples.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<examples.pdf, id=156, 597.55246pt x 845.07718pt>
+File: examples.pdf Graphic file (type pdf)
+<use examples.pdf>
+Package pdftex.def Info: examples.pdf  used on input line 176.
+(pdftex.def)             Requested size: 338.61671pt x 53.79659pt.
+
+Overfull \hbox (77.4226pt too wide) in paragraph at lines 176--176
+ []$| 
+ []
+
+File: examples.pdf Graphic file (type pdf)
+<use examples.pdf>
+Package pdftex.def Info: examples.pdf  used on input line 178.
+(pdftex.def)             Requested size: 338.61671pt x 53.79659pt.
+
+Overfull \hbox (77.4226pt too wide) in paragraph at lines 178--178
+ []$| 
+ []
+
+File: examples.pdf Graphic file (type pdf)
+<use examples.pdf>
+Package pdftex.def Info: examples.pdf  used on input line 180.
+(pdftex.def)             Requested size: 338.61671pt x 53.79659pt.
+
+Overfull \hbox (77.4226pt too wide) in paragraph at lines 180--180
+ []$| 
+ []
+
+File: examples.pdf Graphic file (type pdf)
+<use examples.pdf>
+Package pdftex.def Info: examples.pdf  used on input line 182.
+(pdftex.def)             Requested size: 338.61671pt x 57.77989pt.
+
+Overfull \hbox (77.4226pt too wide) in paragraph at lines 182--182
+ []$| 
+ []
+
+[5]
+
+pdfTeX warning: pdflatex.exe (file ./training_curves.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<training_curves.pdf, id=165, 597.55246pt x 845.07718pt>
+File: training_curves.pdf Graphic file (type pdf)
+<use training_curves.pdf>
+Package pdftex.def Info: training_curves.pdf  used on input line 195.
+(pdftex.def)             Requested size: 213.42409pt x 370.47595pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Main_Results.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<Main_Results.pdf, id=167, 597.55246pt x 845.07718pt>
+File: Main_Results.pdf Graphic file (type pdf)
+<use Main_Results.pdf>
+Package pdftex.def Info: Main_Results.pdf  used on input line 207.
+(pdftex.def)             Requested size: 217.6854pt x 129.47481pt.
+
+Overfull \hbox (4.27097pt too wide) in paragraph at lines 207--208
+ [][] 
+ []
+
+[6 <./examples.pdf>]
+Underfull \hbox (badness 1009) in paragraph at lines 213--214
+\OT1/ptm/m/n/10 sug-gested net-works. Ta-ble 3[] shows the ac-cu-ra-
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 215.
+
+
+Overfull \hbox (6.98898pt too wide) in paragraph at lines 219--229
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1189) has occurred while \output is active []
+
+ [7 <./training_curves.pdf> <./Main_Results.pdf>] (exp14.bbl
+Underfull \hbox (badness 1275) in paragraph at lines 48--52
+\OT1/ptm/m/it/9 tronic Mea-sure-ment In-stru-ments\OT1/ptm/m/n/9 , pages 3--465
+--3--
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 61--64
+[]\OT1/ptm/m/n/9 Kingma, D. P. and Ba, J. (2014).  Adam: A
+ []
+
+[8]
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no ” in font ptmri7t!
+
+Underfull \hbox (badness 1895) in paragraph at lines 141--145
+[]\OT1/ptm/m/n/9 Wei, C., Zhang, Z., Qiao, W., and Qu, L. (2015).
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 141--145
+\OT1/ptm/m/n/9 Reinforcement-learning-based in-tel-li-gent max-i-mum
+ []
+
+)
+
+Package caption Warning: Unused \captionsetup[sub] on input line 13.
+See the caption package documentation for explanation.
+
+[9
+
+] (exp14.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4323 strings out of 493305
+ 63585 string characters out of 3138877
+ 132423 words of memory out of 3000000
+ 7734 multiletter control sequences out of 15000+200000
+ 77494 words of font info for 160 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 41i,20n,39p,2230b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/sym
+bol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on exp14.pdf (9 pages, 2532346 bytes).
+PDF statistics:
+ 288 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+
